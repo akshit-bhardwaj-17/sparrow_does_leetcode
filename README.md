@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0733-flood-fill](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0733-flood-fill) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -21,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0733-flood-fill) |
+## Matrix
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
