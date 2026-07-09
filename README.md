@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0733-flood-fill) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0733-flood-fill) |
 ## Matrix
@@ -49,10 +51,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0207-course-schedule) |
 | [1791-find-center-of-star-graph](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/1791-find-center-of-star-graph) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0009-palindrome-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
