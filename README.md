@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0733-flood-fill) |
+| [0797-all-paths-from-source-to-target](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0733-flood-fill) |
+| [0797-all-paths-from-source-to-target](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Matrix
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0207-course-schedule) |
+| [0797-all-paths-from-source-to-target](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1791-find-center-of-star-graph](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/1791-find-center-of-star-graph) |
 ## Math
 |  |
@@ -62,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0207-course-schedule) |
+## Backtracking
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
