@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0542-01-matrix) |
@@ -69,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0797-all-paths-from-source-to-target) |
+## Hash Table
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0127-word-ladder) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
