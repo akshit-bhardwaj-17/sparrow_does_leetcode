@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Breadth-First Search
 |  |
@@ -42,12 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union-Find
 |  |
 | ------- |
