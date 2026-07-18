@@ -8,47 +8,34 @@ public:
         {
             adj[it[0]].push_back({it[1], it[2]});
         }
+        queue<pair<int , pair<int,int>>>q;
+        q.push({0,{src,0}});
+        vector<int>price(n,INT_MAX);
+  price[src]=0;
 
-        // dist[node][stopsLeft]
-        vector<vector<int>> dist(n, vector<int>(k + 2, INT_MAX));
-
-        priority_queue<
-            pair<int,pair<int,int>>,
-            vector<pair<int,pair<int,int>>>,
-            greater<pair<int,pair<int,int>>>
-        > pq;
-
-        dist[src][k + 1] = 0;
-        pq.push({0, {src, k + 1}});
-
-        while(!pq.empty())
+        while(!q.empty())
         {
-            auto it = pq.top();
-            pq.pop();
-
-            int cost = it.first;
-            int node = it.second.first;
-            int stopsLeft = it.second.second;
-
-            if(node == dst)
-                return cost;
-
-            if(stopsLeft == 0)
-                continue;
-
-            for(auto child : adj[node])
+          auto it= q.front();
+          int stops= it.first;
+          int node= it.second.first;
+          int cost= it.second.second;
+          q.pop();
+          if(stops>k)
+          continue; //we cannot travel more from this path
+         for(auto child: adj[node])
+         {
+            if(cost+child.second<price[child.first])
             {
-                int adjNode = child.first;
-                int wt = child.second;
-
-                if(cost + wt < dist[adjNode][stopsLeft - 1])
-                {
-                    dist[adjNode][stopsLeft - 1] = cost + wt;
-                    pq.push({cost + wt, {adjNode, stopsLeft - 1}});
-                }
+               price[child.first]=cost+child.second;
+               q.push({stops+1,{child.first,price[child.first]}});
             }
+         }
+       
         }
 
+        if(price[dst]!=INT_MAX)
+        return price[dst];
         return -1;
+
     }
 };
