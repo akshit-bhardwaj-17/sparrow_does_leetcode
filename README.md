@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1631-path-with-minimum-effort](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1672-richest-customer-wealth](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/1672-richest-customer-wealth) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1672-richest-customer-wealth](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/1672-richest-customer-wealth) |
 ## Union-Find
 |  |
 | ------- |
