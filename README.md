@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0704-binary-search) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0542-01-matrix) |
+| [0704-binary-search](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/1480-running-sum-of-1d-array) |
