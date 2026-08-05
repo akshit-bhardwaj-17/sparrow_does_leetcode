@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0207-course-schedule) |
 | [0695-max-area-of-island](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0797-all-paths-from-source-to-target) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0797-all-paths-from-source-to-target) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0721-accounts-merge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -107,11 +111,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0721-accounts-merge) |
 ## String
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0127-word-ladder) |
 | [0412-fizz-buzz](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0412-fizz-buzz) |
+| [0721-accounts-merge](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0721-accounts-merge) |
 ## Simulation
 |  |
 | ------- |
@@ -131,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Sorting
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/akshit-bhardwaj-17/sparrow_does_leetcode/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
